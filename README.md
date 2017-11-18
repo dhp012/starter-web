@@ -7,5 +7,6 @@ adding some text
 Sample website with plenty of files for demos
 
 ## Deployment
+this change will be in the working tree.
 
 ## How To Contribute

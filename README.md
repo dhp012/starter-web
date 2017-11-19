@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 this change will be in the working tree.
 
 ## How To Contribute
+
+### Copyright
+2014 Git. Traning
